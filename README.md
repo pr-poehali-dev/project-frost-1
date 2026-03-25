@@ -1,3 +1,7 @@
-# project-frost-1
+# КодМастер — Лендинг для AI-продукта
 
-Initial repository setup for pr-poehali-dev/project-frost-1
+![Preview](https://cdn.poehali.dev/templates/landing-page/preview-ru-v5.jpg)
+
+Современный лендинг для AI-продукта или SaaS-платформы. Тёмная тема с градиентами, сетка изображений и плавные анимации. Идеально для презентации технологических продуктов, стартапов в сфере искусственного интеллекта.
+
+`"tags": ["saas", "dark", "ai", "animations", "gradient"]`
